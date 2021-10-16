@@ -30,7 +30,7 @@
     "upload-coverage": "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "dependencies": {
-    "highlight.js": "^9.3.0",
+    "highlight.js": "^11.2.0",
     "quantum-core": "^2.0.0",
     "quantum-dom": "^2.0.0"
   },
