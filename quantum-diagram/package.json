@@ -30,7 +30,7 @@
     "upload-coverage": "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "dependencies": {
-    "dagre": "^0.8.2",
+    "dagre": "^0.8.5",
     "quantum-core": "^2.0.0",
     "quantum-dom": "^2.0.0"
   },
