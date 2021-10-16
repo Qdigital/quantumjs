@@ -32,7 +32,7 @@
   "dependencies": {
     "highlight.js": "^9.3.0",
     "quantum-core": "^2.0.0",
-    "quantum-dom": "^2.0.0"
+    "quantum-dom": "^2.0.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.1",
