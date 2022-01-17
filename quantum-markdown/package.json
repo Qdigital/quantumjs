@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "markdown-toc": "^1.1.0",
-    "marked": "^0.3.6",
+    "marked": "^4.0.10",
     "quantum-code-highlight": "^2.0.0",
     "quantum-dom": "^2.0.0",
     "quantum-core": "^2.0.0"
